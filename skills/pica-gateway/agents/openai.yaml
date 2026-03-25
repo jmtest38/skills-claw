@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pica Gateway"
+  short_description: "Routes app actions through Bitwarden, Pica, then browser fallback"
+  emoji: "🔌"
